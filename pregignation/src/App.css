@@ -1,0 +1,22 @@
+div {
+    width: 300px;
+    /* display: flex
+; */
+    margin: auto;
+}
+h1
+{
+    text-align: center;
+}
+p
+{
+    text-align: center;
+}
+.btn {
+    position: relative;
+    left: 50px;
+}
+body
+{
+    background-color: black;
+}
